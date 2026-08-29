@@ -35,6 +35,9 @@ Bu layihədə Netflix platformasındakı film və serialların (TV Shows) janrla
 ---
 
 ## 📈 Hesabat Görüntüləri (Dashboard Screens)
+---
+
+## 📈 Hesabat Görüntüləri (Dashboard Screens)
 
 ### 1. Kino sənayesi analizi
 ![Netflix Dashboard Səhifə 1](IMG_20260829_232601.png)
