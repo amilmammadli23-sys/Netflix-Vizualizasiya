@@ -30,16 +30,18 @@ Bu layihədə Netflix platformasındakı film və serialların (TV Shows) janrla
 
 ---
 
+---
+
 ## 📈 Hesabat Görüntüləri (Dashboard Screens)
 
 ### 1. Kino sənayesi analizi
-![Netflix Dashboard Səhifə 1](Ekran%20şəkli%202026-07-02%20113158.png)
+![Netflix Dashboard Səhifə 1](IMG_20260829_23...)
 
 ### 2. Kino sənayesi və səs vermə analizi
-![Netflix Dashboard Səhifə 2](Ekran%20şəkli%202026-07-02%20113219.png)
+![Netflix Dashboard Səhifə 2](file_00000000311...)
 
-### 3. Filmlərin keyfiyyət və reytinq təhlili
-![Netflix Dashboard Səhifə 3](Ekran%20şəkli%202026-07-02%20113229.png)
+### 3. Filmlərin keyfiyyət və reyting təhlili
+![Netflix Dashboard Səhifə 3](file_00000000592...)
 
 ### 4. Kino istehsalı və həcm təhlili
-![Netflix Dashboard Səhifə 4](Ekran%20şəkli%202026-07-02%20113245.png)
+![Netflix Dashboard Səhifə 4](file_00000000a83...)
